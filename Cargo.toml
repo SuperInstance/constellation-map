@@ -1,0 +1,9 @@
+[package]
+name = "constellation-map"
+version = "0.1.0"
+edition = "2021"
+description = "Fleet visualization as a star chart — agents as stars, teams as constellations, with ASCII rendering and navigation"
+license = "MIT"
+repository = "https://github.com/SuperInstance/constellation-map"
+
+[dependencies]
